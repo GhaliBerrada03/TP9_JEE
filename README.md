@@ -27,5 +27,6 @@ Ce projet est une application **Spring Boot** qui démontre la sécurisation des
 - 👑 `/admin/dashboard` : ADMIN uniquement
 
 ## ▶️ Lancement du projet
-![Screenshot 2026-03-30 110122.png](../../../OneDrive/Images/Screenshots/Screenshot%202026-03-30%20110122.png)
-![Screenshot 2026-03-30 110129.png](../../../OneDrive/Images/Screenshots/Screenshot%202026-03-30%20110129.png)
+<img width="783" height="318" alt="Screenshot 2026-03-30 110122" src="https://github.com/user-attachments/assets/87e6a00b-974b-40a7-b64f-6f14e3dd1dc3" />
+
+<img width="793" height="364" alt="Screenshot 2026-03-30 110129" src="https://github.com/user-attachments/assets/693f213b-2473-4e7f-b381-b8e458933974" />
